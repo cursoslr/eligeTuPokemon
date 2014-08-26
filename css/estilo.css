@@ -44,7 +44,7 @@ table,
 
 /**IMAGEN DEL POKEMON**/
 #fondoBall {
-	background-image:url("cover.png");
+	background-image:url(http://i40.photobucket.com/albums/e241/cursoslr/Pokemon/cover_zpseda5b904.png);
 	background-size:contain;
 	background-position: left top;
 	background-repeat: no-repeat;
